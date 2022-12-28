@@ -1,7 +1,7 @@
 
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://www.facebook.com/sk.limon.tera.bap)
+os.system()
 print('\n\033[1;37m install modules...\n It will take some seconds...')
 
 try:
@@ -59,7 +59,7 @@ logo=("""\033[1;37m
  Type type : PAID
  Version   : 2.0.1
 ----------------------------------------------
- AKING Pro version 2.0.1
+ MHL Pro version 2.0.1
 \033[1;37m----------------------------------------------""")
 def linex():
         print('\033[1;37m----------------------------------------------')
